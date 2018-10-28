@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="green1">#03DAC6</color>
+    <color name="yellow1">#FFDE03</color>
+    <color name="verygood">#00E676</color>
+    <color name="good">#388E3C</color>
+    <color name="fair">#FAFAFA</color>
+    <color name="poor">#FF4081</color>
+    <color name="verypoor">#B71C1C</color>
+    <color name="botnavi">#344955</color>
+</resources>

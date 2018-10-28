@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Home_page"
+        android:title="Home Page "
+        android:icon="@drawable/ic_baseline_dashboard_24px" />
+    <item android:id="@+id/indoor_data"
+        android:title="Indoor data "
+        android:icon="@drawable/ic_baseline_home_24px"/>
+    <item android:id="@+id/outdoor_data"
+        android:title="Outdoor data "
+        android:icon="@drawable/ic_baseline_beach_access_24px"/>
+    <item android:id="@+id/analysis"
+        android:title="Data analysis "
+        android:icon="@drawable/ic_baseline_insert_chart_outlined_24px"/>
+
+</menu>

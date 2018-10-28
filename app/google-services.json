@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "647175287692",
+    "firebase_url": "https://sensordata-213415.firebaseio.com",
+    "project_id": "sensordata-213415",
+    "storage_bucket": "sensordata-213415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647175287692:android:3c8879bbd4ee0223",
+        "android_client_info": {
+          "package_name": "com.example.zzzch.sensordata_vis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647175287692-dohruhjjlf2cu91q97god2f5t83vjnpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjrWP1KC6y41xTyEB4DnOqutS4VOmoDV4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

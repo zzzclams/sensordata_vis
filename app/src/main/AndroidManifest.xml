@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.zzzch.sensordata_vis">
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon1"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/Home_Page"
+            android:theme="@style/Theme.AppCompat.DayNight">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".indoor_data"
+            android:theme="@style/Theme.AppCompat.DayNight"
+            android:label="@string/In"/>
+        <activity
+            android:name=".outdoor_data"
+            android:theme="@style/Theme.AppCompat.DayNight"
+            android:label="@string/Out"/>
+        <activity
+            android:name=".data_analysis"
+            android:theme="@style/Theme.AppCompat.DayNight"
+            android:label="@string/Ana"/>
+        <activity
+            android:name=".indoor_analysis"
+            android:theme="@style/Theme.AppCompat.DayNight"
+            android:label="Indoor air quality"/>
+        <activity
+            android:name=".outdoor_analysis"
+            android:theme="@style/Theme.AppCompat.DayNight"
+            android:label="Outdoor air quality"/>
+
+    </application>
+
+</manifest>
